@@ -1,5 +1,5 @@
 # Algorithms & Data Structures
-This repository is for recoding the study of algorithms and data structures. Before starting the day, I'm steadily studying this every day as a warm-up exercise. I believe that sincerity will help a lot, and this will be the basic strength for my future studies. This reposit is a work in progress.
+This repository is for recoding the study of algorithms and data structures. Before starting the day, I'm steadily studying this every day as a warm-up exercise. I believe that sincerity will help a lot, and this will be the basic strength for my future studies. &#128170; This reposit is a work in progress.
   
   
 ## Resources and Study materials
